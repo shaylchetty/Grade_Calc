@@ -4,13 +4,21 @@ Given a desired GPA, grade range (for example: A+ -> B), and the number of cours
 Columbia's GPA system weights as the following:
 
 A+ : 4.33
+
 A  : 4.00
+
 A- : 3.67
+
 B+ : 3.33
+
 B  : 3.00
+
 B  : 2.67
+
 C+ : 2.33
+
 C  : 2.00
+
 
 User prompted to input (program constraints):
 
@@ -26,15 +34,26 @@ Structure of each, follows: [GPA, [# of A+'s, # of A's, # of A-'s, # of B+'s, # 
 
 Student earned GPA of 3.69
 from...
+
 0, A+ grades
+
 3, A grades
+
 28, A- grades
+
 0, B+ grades
+
 0, B- grades
+
 
 Here is the full list of possibilties provided the contraints above:
 
 [fille.txt](https://github.com/shaylchetty/Grade_Calc/files/9201104/fille.txt)
+
+
+https://user-images.githubusercontent.com/102982612/181311630-02462d4f-db42-4955-95b6-c3cb329f9d6c.mov
+
+
 
 The program can also print a neater version of the output to the console (though I personally prefer think the txt looks cooler!):
 
