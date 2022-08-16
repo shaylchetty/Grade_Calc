@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/102982612/181311630-02462d4f-db42-4955
 
 
 
-The program can also print a neater version of the output to the console (though I personally prefer think the txt looks cooler!):
+The program can also print a neater version of the output to the console (though I personally prefer the txt!):
 
 
 https://user-images.githubusercontent.com/102982612/181306163-02327287-1aeb-4800-9a3c-39f0d3a95d76.mov
