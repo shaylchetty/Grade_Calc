@@ -1,7 +1,7 @@
 # Grade_Calc
 Given a desired GPA, grade range (for example: A+ -> B), and the number of courses, calculates every possible arrangement of (A's, B's and/or C's) for achieving that GPA. 
 
-Columbia's GPA system weights as the following:
+Columbia's/Stanford's GPA system weights as the following:
 
 A+ : 4.33
 
